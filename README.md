@@ -1,5 +1,10 @@
 # Python Data Science Handbook
 
+'''
+Here are some of my own comments
+inserted on Wednesday the 8th of November 2023
+'''
+
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jakevdp/PythonDataScienceHandbook/master?filepath=notebooks%2FIndex.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
 
